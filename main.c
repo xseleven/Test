@@ -8,5 +8,7 @@ int main(int argc, char **argv)
 
 	fprintf(stdout, "No = %d\n", nData);
 
+	fprintf(stdout, "Hello World!\n");
+
 	exit(EXIT_SUCCESS);
 }
